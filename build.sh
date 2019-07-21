@@ -1,0 +1,1 @@
+jar cvf 02-simple-servlet.war *
